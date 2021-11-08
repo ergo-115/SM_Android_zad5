@@ -1,0 +1,17 @@
+Uruchomienie aplikacji:
+	onCreate, onStart, onResume
+Przycisk cofnij:
+	onPause, onStop, onDestroy
+Ponowne uruchomienie aplikacji:
+	onCreate, onStart, onResume
+Przycisk home:
+	onPause, onStop
+Powrót do aplikacji przez ostatnio otwarte:
+	onStart, onResume
+
+Obrót ekranu:
+	onPause, onStop, onDestroy, onCreate, onStart, onResume - wyświetla się pierwsze pytanie
+
+Po nadpisaniu metody onSaveInstanceState i obróceniu ekranu:
+	pytania nie resetują się, wyświetlane jest to pytanie które było na ekranie przed obróceniem
+	
