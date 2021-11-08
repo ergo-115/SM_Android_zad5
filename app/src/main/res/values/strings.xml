@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sm_ps1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_netflix">Netlix to platforma streamująca muzykę</string>
+    <string name="q_facebook">Facebook nigdy nie miał awarii</string>
+    <string name="q_bajka">"Bolek i Lolek" to polska bajka</string>
+    <string name="q_euro">Podczas Euro 2020, Polska reprezentacja odpadła w fazie grupowej</string>
+    <string name="q_water">Waterboarding to nazwa sportu ekstremalnego</string>
+    <string name="correctAnswer">Correct</string>
+    <string name="incorrectAnswer">Incorrect</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
+</resources>
